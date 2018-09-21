@@ -1,0 +1,21 @@
+.Navbar-header{
+  background-color: rgb(231, 228, 224);
+  height: 64px;
+  display: flex;
+  padding: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.Navbar-title {
+  font-size: 24px;
+}
+
+.Navbar-intro {
+  font-size: large;
+}
+
+.Navbar-logo {
+  height: 40px;
+  padding: 16px;
+  cursor: pointer;
+}
